@@ -1,5 +1,5 @@
-# Cleveland Heart Disease Dataset Sandbox
-In this repo, we will have fun with this dataset and use ML. Check dataset on [Kaggle](https://www.kaggle.com/nareshbhat/health-care-data-set-on-heart-attack-possibility) or [UCI.edu](https://archive.ics.uci.edu/ml/datasets/heart+disease). 
+# Building a Supportive Artificial Neural Network Model in the Diagnosis of Heart Disease | Kalp Hastalığı Tanısında Destekleyici Yapay Nöral Ağ Modeli Oluşturulması
+This study is the source code of the project named "Building a Supportive Artificial Neural Network Model in the Diagnosis of Heart Disease" presented at the [2021 Marmara University Student Congress](https://www.marmarastudentcongress.com/). Check dataset on [Kaggle](https://www.kaggle.com/nareshbhat/health-care-data-set-on-heart-attack-possibility) or [UCI.edu](https://archive.ics.uci.edu/ml/datasets/heart+disease). 
 
 ## Problem Definition
 Given clinical parameters about a patient, can we predict whether or not they have heart disease?
@@ -35,5 +35,3 @@ Explanation of fields in dataset
     * 6: fixed defect: used to be defect but ok now
     * 7: reversable defect: no proper blood movement when excercising
 14. `target` - have disease or not (1=yes, 0=no) (= the predicted attribute)
-## How to Contribute
-Train your own model, create a folder, upload **trained model, .ipynb, result** and commit. Thanks!💕
